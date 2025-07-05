@@ -79,7 +79,7 @@ X_vars_allowed = ['Involvement',
  'concreteness', 'imageability', 'semantic_size', 'haptic']
 
 # App Title
-st.title("Ridge Regression Explorer — Radio Ads Data")
+st.title("Global Radio Ads Data Explorer")
 
 # Upload data
 uploaded_file = st.file_uploader("Upload Final Cleaned Data (final_cleaned_data.xlsx)", type=["xlsx"])
